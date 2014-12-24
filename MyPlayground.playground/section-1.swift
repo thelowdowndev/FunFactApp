@@ -4,4 +4,9 @@ import Cocoa
 
 var str = "Hello, playground"
 
-//swift recap
+//Random Number Generation
+
+var randomNumber = Int(arc4random_uniform(10))
+
+
+
